@@ -1,0 +1,1 @@
+create table todos (id INTEGER PRIMARY KEY, todo TEXT, isCompleted TEXT);
