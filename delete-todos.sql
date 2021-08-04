@@ -1,1 +1,1 @@
-DROP * FROM todos
+delete FROM todos

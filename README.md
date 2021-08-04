@@ -1,5 +1,7 @@
 # learning-SQL
 
+Simple SQL commands
+
 ### Login
 
 ```
